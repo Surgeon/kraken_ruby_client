@@ -366,6 +366,12 @@ module Kraken
       post_private 'ClosedOrders', opts
     end
 
+    # Fetch trades history (POST)
+
+    def trades_history(opts = {})
+      post_private 'TradesHistory', opts
+    end
+
     # Get deposit methods (POST)
     #
     # Examples:

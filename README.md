@@ -35,19 +35,19 @@ Currently developed with Ruby 2.7. Compatible with Ruby 2.4 and up.
     clone with SSH
 
     ```shell
-    git clone git@github.com:jonatack/kraken_ruby_client.git
+    git clone git@github.com:Surgeon/kraken_ruby_client.git
     ```
 
     or clone with HTTPS
 
     ```shell
-    git clone https://github.com/jonatack/kraken_ruby_client.git
+    git clone https://github.com/Surgeon/kraken_ruby_client.git
     ```
 
     or add it to your Gemfile
 
     ```ruby
-    gem 'kraken_ruby_client', github: 'jonatack/kraken_ruby_client'
+    gem 'kraken_ruby_client', github: 'Surgeon/kraken_ruby_client'
     ```
 
 2. Install from the command line in your local directory.
@@ -264,4 +264,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 The author may be contacted by email at jon@atack.com.
 
-Copyright © 2016-2021 Jon Atack (@jonatack)
+Copyright © 2016-2021 Jon Atack (@Surgeon)
